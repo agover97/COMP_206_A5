@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include “list.h”
+#include <stdlib.h>
+#include "list.h"
 
 struct NODE *head;
 void newList(){
@@ -13,3 +14,4 @@ int addNode(int value){
 void prettyPrint(){
 
 }
+ 
