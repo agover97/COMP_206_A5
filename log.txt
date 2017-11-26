@@ -1,0 +1,41 @@
+commit b73f09befd4c608d32be8c324143631c549e3631
+Author: agover97 <adamgover@Baby.local>
+Date:   Wed Nov 22 14:28:17 2017 -0500
+
+    pretty sure I'm finished
+
+commit cd6f73ac94c2a7734fe9fe9148c6de64387a8ebb
+Author: agover97 <adamgover@Baby.local>
+Date:   Tue Nov 21 14:37:56 2017 -0500
+
+    needs more work
+
+commit bfe5ffd1d158d2960570f7f2610c0a669221d40e
+Author: agover97 <adamgover@Baby.local>
+Date:   Tue Nov 21 14:25:21 2017 -0500
+
+    started to write code, did makefile
+
+commit d8d586aa067df58eb402239a5ecead0b6ba4ca9e
+Author: agover97 <adamgover@Baby.local>
+Date:   Tue Nov 21 14:00:44 2017 -0500
+
+    added main.c, this one has a lower case c
+
+commit 6c3ea689d15548d2456fa5df66306f50c51711dc
+Author: agover97 <adamgover@Baby.local>
+Date:   Tue Nov 21 14:00:13 2017 -0500
+
+    deleted main.C
+
+commit 614dd27cd2bcd23a720b490f1722c26091161c33
+Author: agover97 <adamgover@Baby.local>
+Date:   Tue Nov 21 13:58:56 2017 -0500
+
+    made some more files
+
+commit c3a29de037e2e6adc1b17018ed1b7b4b4023dcae
+Author: agover97 <adamgover@Baby.local>
+Date:   Tue Nov 21 13:56:07 2017 -0500
+
+    first commit
